@@ -17,6 +17,7 @@ This project is a full-stack application built with a Node.js/Express backend an
 
 ## Project Structure
 
+```
 .
 ├── backend # Node.js and Express backend
 │ ├── data # In-memory data storage
@@ -31,6 +32,7 @@ This project is a full-stack application built with a Node.js/Express backend an
 │ └── App.css # Styling for the application
 ├── eslint.config.mjs # ESLint configuration
 └── package.json # Dependencies and scripts
+```
 
 ## Getting Started
 
